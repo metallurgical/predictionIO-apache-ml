@@ -21,10 +21,10 @@ Setup predictionIO machine learning for Recommendation. Useful machine learning 
 # Installation
 
 ## Apache PredictionIO
-Download binary release of Apache PredictionIO https://www.apache.org/dyn/closer.lua/predictionio/0.14.0/apache-predictionio-0.14.0-bin.tar.gz:
+Download binary release of Apache PredictionIO:
 
 ```
-wget https://www.apache.org/dyn/closer.lua/predictionio/0.14.0/apache-predictionio-0.14.0-bin.tar.gz
+wget https://downloads.apache.org/predictionio/0.14.0/apache-predictionio-0.14.0-bin.tar.gz
 tar zxvf apache-predictionio-0.14.0-bin.tar.gz
 ```
 After that installing dependencies, in this case is Spark.
